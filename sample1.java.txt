@@ -4,4 +4,8 @@ public static void main(String args[])
 {
 System.out.println("welcome to java");
 }
+void m()
+{
+system.out.println("java is programing language");
+}
 }
